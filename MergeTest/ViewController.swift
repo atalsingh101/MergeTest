@@ -37,7 +37,11 @@ class ViewController: UIViewController {
 
     func addDevMethod() {
         
+<<<<<<< HEAD
         print("Add developmet method")
+=======
+        print("Add dev009 method")
+>>>>>>> Dev
     }
 
 }
