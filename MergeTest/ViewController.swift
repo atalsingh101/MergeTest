@@ -25,6 +25,10 @@ class ViewController: UIViewController {
         print("Added normal disp normal message")
     }
 
+    func addDevMethod() {
+        
+        print("Add dev method")
+    }
 
 }
 
