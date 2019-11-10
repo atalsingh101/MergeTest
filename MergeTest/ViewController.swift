@@ -19,6 +19,11 @@ class ViewController: UIViewController {
         
         print("Display information")
     }
+    
+    func displayNormalDevInfo() {
+        
+        print("Added normal disp normal message")
+    }
 
 
 }
