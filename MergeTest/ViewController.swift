@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 
     func addDevMethod() {
         
-        print("Add dev009 method")
+        print("Add dev009master method")
 
     }
 
