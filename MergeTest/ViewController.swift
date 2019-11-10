@@ -35,6 +35,10 @@ class ViewController: UIViewController {
         print("Hello world")
     }
 
+    func addDevMethod() {
+        
+        print("Add dev method")
+    }
 
 }
 
