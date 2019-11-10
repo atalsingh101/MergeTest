@@ -29,6 +29,11 @@ class ViewController: UIViewController {
         
         print("Added normal disp normal message")
     }
+    
+    func dispHelloWorld() {
+        
+        print("Hello world")
+    }
 
 
 }
