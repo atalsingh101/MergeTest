@@ -24,6 +24,11 @@ class ViewController: UIViewController {
         
         print("Hi I am in master")
     }
+    
+    func displayNormalDevInfo() {
+        
+        print("Added normal disp normal message")
+    }
 
 
 }
