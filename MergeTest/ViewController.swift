@@ -19,6 +19,11 @@ class ViewController: UIViewController {
         
         print("Some basic information")
     }
+    
+    func displyMaster() {
+        
+        print("Hi I am in master")
+    }
 
 
 }
